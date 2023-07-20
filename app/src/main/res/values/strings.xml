@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TravellerApp</string>
+    <string name="login_title">LogIn</string>
+    <string name="back_button">Back</string>
+    <string name="home_title">Visited Places</string>
+    <string name="loading_title">Loading...</string>
+    <string name="map_icon_description">Map Icon</string>
+    <string name="logo_description">Traveller App Logo</string>
+    <string name="no_places_description">Hey! There are no places yet... start creating one</string>
+    <string name="edit_place_title">Edit Place</string>
+    <string name="save_action">Save action</string>
+    <string name="_entry_title">New Place</string>
+    <string name="_name_req">Place name is required</string>
+    <string name="place_name_req">Name</string>
+    <string name="place_entry_title">New Place</string>
+    <string name="dialog_action_yes">Yes</string>
+    <string name="dialog_action_no">No</string>
+    <string name="dialog_save_icon_description">Warning icon while saving modified place</string>
+    <string name="dialog_save_warning_content">You\\\'re about to save changes in the place.\\n Make sure the changes are correct</string>
+    <string name="dialog_save_action_no">Undo Changes</string>
+    <string name="dialog_save_action_yes">Save Changes</string>
+    <string name="dialog_remove_icon_description">Remove icon while removing place</string>
+    <string name="dialog_remove_warning_content">You\\\'re about to delete this place.</string>
+    <string name="dialog_remove_action_no">Cancel</string>
+    <string name="dialog_remove_action_yes">Remove Place</string>
+    <string name="place_view_title">Place</string>
+    <string name="place_description_req">Description</string>
+    <string name="place_diameter_req">Diameter</string>
+    <string name="add_action">Add new place icon</string>
+    <string name="map_action">Show results in Map action</string>
+</resources>
